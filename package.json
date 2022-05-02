@@ -1,0 +1,13 @@
+{
+  "name": "bytebank",
+  "version": "1.0.0",
+  "description": "Projeto do Bytebank desenvolvido durante o curso de Javascript orientado a objetos da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./index.js"
+  },
+  "author": "Nathalia L. S. Calza",
+  "license": "ISC",
+  "type": "module"
+}
